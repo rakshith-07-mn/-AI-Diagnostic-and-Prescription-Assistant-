@@ -1,0 +1,5 @@
+[
+  "test_pipeline.py::test_disease_prediction",
+  "test_pipeline.py::test_end_to_end",
+  "test_pipeline.py::test_symptom_extraction"
+]
